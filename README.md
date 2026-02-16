@@ -1,40 +1,40 @@
-# 📊 Blinkit Sales Analysis Dashboard (Power BI)
+# 📊 Vrinda Store Sales Analysis Dashboard (Excel)
 
 ## 📌 Project Overview
-This project analyzes Blinkit grocery sales data using Power BI to understand sales performance, outlet trends, product categories, and customer behavior. An interactive dashboard was built to track key KPIs such as Total Sales, Average Sales, Number of Items, and Ratings.
+This project analyzes Vrinda Store’s annual sales data using Microsoft Excel to understand order trends, customer demographics, regional performance, and sales channels. An interactive dashboard was created using Pivot Tables and charts to visualize key business metrics.
 
 ## 🎯 Objective
-- Analyze overall sales performance  
-- Identify top-performing outlets and item categories  
-- Understand customer distribution and outlet contribution  
-- Support data-driven business decisions
+- Analyze yearly sales and order performance  
+- Identify top-performing states and sales channels  
+- Understand gender-wise and age-wise customer behavior  
+- Track order status and delivery performance  
 
 ## 🛠 Tools & Technologies
-- Power BI  
-- Excel  
-- DAX  
-- Data Modeling  
-- Data Cleaning & Transformation  
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Slicers  
+- Data Cleaning  
+- Calculated Fields  
 
 ## 📈 Key Insights
-- Total Sales reached $1.2M across 9K items  
-- Amazon and Myntra contributed the highest sales share  
-- Supermarket Type 1 generated maximum revenue  
-- Fruits & Snacks were top-selling categories  
+- Women customers contributed the majority of total sales  
+- Maharashtra, Karnataka, and Uttar Pradesh were top revenue states  
+- Amazon and Flipkart generated the highest order volume  
+- Adult age group showed maximum purchase activity  
 
 ## 🔧 Features
-- Interactive slicers (Outlet Size, Location, Item Type)  
-- KPI cards (Sales, Items, Rating)  
-- Sales trend analysis  
-- Category-wise and outlet-wise performance  
-- Dynamic visuals using DAX measures  
+- Interactive slicers (Month, Category, Channel)  
+- Sales vs Orders trend analysis  
+- Gender and age segmentation  
+- Top 5 states visualization  
+- Order status breakdown  
 
 ## 🚀 Impact
-Enabled clear visibility into sales trends, outlet performance, and customer behavior, helping stakeholders optimize inventory and improve business strategy.
+Improved visibility of sales trends and customer segments, enabling data-driven decisions for marketing strategy and regional sales optimization.
 
 ## 📂 Files Included
-- Power BI Dashboard (.pbix)  
-- Dataset (Excel)  
+- Excel Dashboard (.xlsx)  
+- Raw Dataset  
 - Screenshots  
 
 ## Akhilesh Nishad
