@@ -32,6 +32,10 @@ This project analyzes Vrinda Store’s annual sales data using Microsoft Excel t
 ## 🚀 Impact
 Improved visibility of sales trends and customer segments, enabling data-driven decisions for marketing strategy and regional sales optimization.
 
+## 📷 Dashboard Screenshot
+
+![Vrinda Store Dashboard](Screenshot%202026-02-16%20122427.png)
+
 ## 📂 Files Included
 - Excel Dashboard (.xlsx)  
 - Raw Dataset  
