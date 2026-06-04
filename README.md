@@ -34,7 +34,7 @@ Improved visibility of sales trends and customer segments, enabling data-driven 
 
 ## 📷 Dashboard Screenshot
 
-![Vrinda Store Dashboard](Screenshot%202026-02-16%20122427.png)
+![Vrinda Store Dashboard](Screenshot%202026-06-04%20112638.png)
 
 ## 📂 Files Included
 - Excel Dashboard (.xlsx)  
